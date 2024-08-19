@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "YesevaOne";                                    /*Заголовки*/
+    font-style: normal;
+    font-weight: normal;
+    src: local("YesevaOne"),
+            url("YesevaOne.woff2") format("woff2"),
+            url("YesevaOne.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "NunitoSans";                                    /*Текст*/
+    font-style: normal;
+    font-weight: normal;
+    src: local("NunitoSans"),
+            url("NunitoSans.woff2") format("woff2"),
+            url("NunitoSans.woff") format("woff");
+}
